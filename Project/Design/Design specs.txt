@@ -1,0 +1,10 @@
+1- You need to use Bootstrap latest version
+2- You need to use FontAwesome font icon package (search from internet about what is it and how can you use it)
+3- Use images which are included in images folder
+4- Every page need to have same Header and footer sections
+5- Active page need to be highlighted as you see in the design picture.
+6- I want to reach every page I want with the links.
+7- Portfolio items' links can be # (empty).
+
+Good luck!
+
